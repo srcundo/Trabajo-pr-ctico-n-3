@@ -6,6 +6,8 @@ contra un modelo pre-entrenado (TextBlob) y se analizaron los errores usando
 similitud coseno. Como extra, se armó un minijuego interactivo que usa el modelo
 entrenado para clasificar respuestas del usuario en tiempo real.
 
+Todos los archivos: https://drive.google.com/drive/folders/1vEbizVh6DDI1zpShmBDvno-dIn-IfmZd?usp=sharing
+
 ---
 
 ## 1. Datos
