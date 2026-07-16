@@ -1,0 +1,11 @@
+# Dataset de training — pesa 228 MB, supera el limite de GitHub (100 MB)
+# Se descarga desde el link de la consigna (ver README)
+data/training.1600000.processed.noemoticon.csv
+
+# Archivos generados por las notebooks — se regeneran corriendo 02 y 04
+modelos/*.pkl
+modelos/*.npz
+modelos/*.npy
+
+# Checkpoints de Colab/Jupyter
+.ipynb_checkpoints/
